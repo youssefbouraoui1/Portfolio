@@ -43,31 +43,7 @@ const projects: Project[] = [
       "Git",
       "GitHub",
     ],
-    github: "https://github.com/youssefbouraoui1/ticket-management",
-  },
-  {
-    id: 2,
-    title: "Cloud Learning Application (Azure Implementation)",
-    description:
-      "Created an educational platform dedicated to cloud learning, providing accessible resources for students interested in cloud technologies.",
-    contributions: [
-      "Designed and developed the core application functionality",
-      "Integrated Azure SQL Database for data management",
-      "Implemented Azure Blob Storage for video and image content",
-      "Set up CI/CD pipeline to automate deployment processes",
-      "Deployed the complete platform on Azure Web App services",
-    ],
-    technologies: [
-      "React",
-      "Node.js",
-      "Azure SQL Database",
-      "Azure Blob Storage",
-      "Azure Web App",
-      "CI/CD",
-      "Git",
-      "GitHub",
-    ],
-    github: "https://github.com/youssefbouraoui1/cloud-learning",
+    github: "https://github.com/orgs/Chatbot-pour-Clustering-des-tickets-PFA/repositories",
   },
   {
     id: 3,
@@ -81,7 +57,7 @@ const projects: Project[] = [
       "Designed and developed the full-stack application",
     ],
     technologies: ["React", "Express", "Oracle Autonomous Database", "Tailwind CSS", "Git", "GitHub"],
-    github: "https://github.com/youssefbouraoui1/internship-platform",
+    github: "https://github.com/ProjetSI2024",
   },
   {
     id: 4,
@@ -96,7 +72,7 @@ const projects: Project[] = [
       "Built an interpreter to execute the compiled code",
     ],
     technologies: ["C", "VSCode", "Git", "GitHub"],
-    github: "https://github.com/youssefbouraoui1/pascal-compiler",
+    github: "https://github.com/Ismail-Ah/Compilateur",
   },
 ]
 
